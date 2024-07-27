@@ -4,6 +4,8 @@
 
 ![view](https://github.com/user-attachments/assets/e1fb1ad7-aae4-4321-b313-f5c2e7cb6c21)
 
+![view_2](https://github.com/user-attachments/assets/b6ef746d-6321-4168-b7f6-9fa6dd030db5)
+
 - 🐾 [Demo Project](https://ftmdhn.github.io/test/)
 
 - 👩‍💻 Developed by Fatemeh Dehghani 
