@@ -18,4 +18,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
+- How to reach me : with my [instagram](https://www.instagram.com/ftm.dehgni/) and [linkedin](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
