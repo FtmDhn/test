@@ -2,7 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![view_1](https://github.com/user-attachments/assets/89968fba-f31d-4d56-83f2-5f3241833017)
+![view](https://github.com/user-attachments/assets/e1fb1ad7-aae4-4321-b313-f5c2e7cb6c21)
 
 - 🐾 [Demo Project](https://ftmdhn.github.io/test/)
 
